@@ -1,0 +1,7 @@
+/home/augusto/projects/hours/build/CMakeFiles/install/strip.dir
+/home/augusto/projects/hours/build/CMakeFiles/install/local.dir
+/home/augusto/projects/hours/build/CMakeFiles/install.dir
+/home/augusto/projects/hours/build/CMakeFiles/list_install_components.dir
+/home/augusto/projects/hours/build/CMakeFiles/rebuild_cache.dir
+/home/augusto/projects/hours/build/CMakeFiles/edit_cache.dir
+/home/augusto/projects/hours/build/CMakeFiles/hour.dir

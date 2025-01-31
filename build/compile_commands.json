@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/augusto/projects/hours/build",
+  "command": "/usr/bin/cc -g -o CMakeFiles/hour.dir/main.c.o -c /home/augusto/projects/hours/main.c",
+  "file": "/home/augusto/projects/hours/main.c"
+},
+{
+  "directory": "/home/augusto/projects/hours/build",
+  "command": "/usr/bin/cc -g -o CMakeFiles/hour.dir/lib_hour.c.o -c /home/augusto/projects/hours/lib_hour.c",
+  "file": "/home/augusto/projects/hours/lib_hour.c"
+},
+{
+  "directory": "/home/augusto/projects/hours/build",
+  "command": "/usr/bin/cc -g -o CMakeFiles/hour.dir/ArrayList.c.o -c /home/augusto/projects/hours/ArrayList.c",
+  "file": "/home/augusto/projects/hours/ArrayList.c"
+}
+]

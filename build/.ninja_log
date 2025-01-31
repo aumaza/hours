@@ -1,0 +1,5 @@
+# ninja log v5
+0	45	1731343776000000000	CMakeFiles/hour.dir/main.c.o	2f97c5092d601ec2
+59	80	1731343776000000000	hour	231f9a2687b0acb6
+1	59	1731343776000000000	CMakeFiles/hour.dir/lib_hour.c.o	a49b93eaa3416e4a
+219	756	1730998626000000000	CMakeFiles/hour.dir/ArrayList.c.o	195de813a3986fdd
